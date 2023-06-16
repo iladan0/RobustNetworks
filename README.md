@@ -1,4 +1,5 @@
 # Adversarial Attacks and Robust Networks
+
 Team ROBUSTNET : BENREKIA Mohamed Ali, TADJER Amina, ZAGHRINI Eloıse
 December 20, 2021
 
@@ -10,6 +11,7 @@ model. In this project, we will study 3 different attacks : FGSM, PGD and C&W, a
 test out and compare different defense methods against those attacks : Adversarial Training, Defensive Distillation,
 Randomized Networks, and Model Ensemble.In this project, we will explore different parameters for each method
 and visualize the results.
+    
     Keywords: FGSM, PGD, C&W, Defensive distillation, Randomized Networks, Network Ensemble
 
 
