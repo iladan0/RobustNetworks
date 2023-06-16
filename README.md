@@ -1,9 +1,8 @@
 # Adversarial Attacks and Robust Networks
+Team ROBUSTNET: BENREKIA Mohamed Ali, TADJER Amina, ZAGHRINI Eloıse - December 20, 2021
 
-Team ROBUSTNET : BENREKIA Mohamed Ali, TADJER Amina, ZAGHRINI Eloıse
-December 20, 2021
+**ABSTRACT**
 
-ABSTRACT:
 In recent years, a lot of weaknesses have been demonstrated in classification neural networks. Even in extremely
 precise and deep models, simple and undetectable by humans attacks on the input data can make the accuracy drop
 significantly. To remedy this problem, a lot of defense methods have been proposed to improve the robustness of any
@@ -11,8 +10,8 @@ model. In this project, we will study 3 different attacks : FGSM, PGD and C&W, a
 test out and compare different defense methods against those attacks : Adversarial Training, Defensive Distillation,
 Randomized Networks, and Model Ensemble.In this project, we will explore different parameters for each method
 and visualize the results.
-    
-    Keywords: FGSM, PGD, C&W, Defensive distillation, Randomized Networks, Network Ensemble
+
+_Keywords: FGSM, PGD, C&W, Defensive distillation, Randomized Networks, Network Ensemble_
 
 
 This is a basic code repository for Assignment 3.
